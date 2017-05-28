@@ -21,7 +21,7 @@ originally built for serving test feedback needs @ [goibibo.com](http://www.goib
 And yes off-course, it helps a lot to check test status on all your mobile app versions in one shot, so no more surprises after production !
 
 
-### Requirements
+### Get Started
 To add this plugin to your internal jenkins
 1. Use plugin
      - [Download](https://raw.githubusercontent.com/p00j4/xfpanel-plugin/master/docs/xfpanel.hpi') directly and upload/deploy plugin file in your jenkins server
