@@ -12,15 +12,14 @@ originally built for serving test feedback needs @ [goibibo.com](http://www.goib
 
 ![Alt text](/docs/QuickView-dashBoard.png "QuickView")
 
-```
-What it can do
+### Features
 - Nice layout of test jobs feedback [ Any one can understand and infer the release status in a glance ]
 - Release info which broke the test [ DevOps Engineer love it]
 - Quick links to visit detail report of each build [ Full fledged customised report which shows details about all tests, their data & reason for failure]
 - Quick link to visit screenshots of the failed tests [ Dev Engineer love it ]
 - Quick link to visit console for debugging the cause [ Test Engineer need it]
 And yes off-course, it helps a lot to check test status on all your mobile app versions in one shot, so no more surprises after production !
-```
+
 
 ### Requirements
 To add this plugin to your internal jenkins
